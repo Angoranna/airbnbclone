@@ -1,0 +1,217 @@
+header{
+	float: right;
+	text-align: right;
+	color: rgb(142, 137, 137);
+	font-size: 13px;
+	padding-right: 2em;
+	padding-bottom: 2em;
+}
+
+.navbar-airbnb{
+  top: 5;
+}
+
+
+
+.header-img{
+	float: left;
+	top: 10px;
+}
+
+body{
+    margin-right: 8em;
+    margin-left: 4em;
+
+}
+
+.vetical-inline{
+	float: right;
+
+}
+
+.container{
+	border: 1px solid;
+	width: 28em;
+	height: 7em;
+	float: left;
+	padding-top: 1em;
+   border-color: rgb(198, 196, 196);
+}
+
+h1{
+	margin-bottom: 1px;
+	padding-top: 7em;
+	font-size: 30px;
+}
+
+ .navbar-Airbnb img{
+	float: left;
+	text-align: left;
+	margin-left: 1em;
+	padding-top: 2em;
+
+}
+
+.container p{
+	padding: 1px;
+	word-spacing: 3em;
+
+}
+
+.btn{
+	float: left;
+	padding-right: 8em;
+	width: 1.2px;
+	padding-top: 1em;
+    padding-bottom: 1.2em;
+    color: black;
+    background-color:rgb(247, 56, 56); 
+}
+
+.menu{
+	float: left;
+   margin-top: 4em;
+   border-bottom: 1px solid;
+   width: 1000px;
+   color: rgb(160, 155, 155);
+
+}
+ hr{
+	color: blue;
+	border-bottom:1px solid;
+	width:300px;
+	float: left; 
+
+}
+
+h3{
+	margin: 2em;
+	float: left;
+	text-align: left;
+	margin-right: 3em;
+	padding: 3px;
+}
+
+#exp{
+	margin-right: 5.5em;
+}
+
+#lieu{
+	margin-right: 9em;
+}
+
+#log{
+	margin-right: 6.5em;
+	padding-bottom: 3em;
+}
+
+#res{
+	margin-right: 2em;
+	padding-bottom: 3em;
+}
+
+h5{
+	font-size: 12px;
+}
+   
+#rec{
+	color: rgb(127, 123, 123);
+}
+
+img{
+	margin: 8em;
+	float: right;
+	margin-right: 20em;
+	margin-left: 9px;
+	padding: 2em;
+	margin-bottom: 8em;
+
+}
+
+a{
+color:rgb(130, 127, 127);
+}
+
+ [class*="col1"]{
+ 	float: right;
+ 	text-align: left;
+ 	margin-left: 8em;
+ 	/*margin-right: 45px;*/
+ 	/*padding-left: 3em;*/
+    
+   
+
+ }
+
+ [class*="col1"] 
+ h4 a{
+ 	margin: 2em;
+ }
+
+ .container1{
+ 	border-top:1px solid;
+ 	border-color: rgb(191, 187, 187);
+ 	padding-left: 3em;
+ 	padding-right: 5px;
+
+ }
+.btn-group{
+	background-color:grid;
+	height: 6px;
+	bottom: 4.6px;
+	color: black;
+	padding-top: 1em;
+	border-color: rgb(170, 169, 169);
+}
+
+.containers {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+#second-btn{
+	width: 5em;
+	height: 0;
+	margin-top: 2em;
+	text-align: center;
+	top: 1;
+	background-color: transparent;
+
+}
+
+#three-btn{
+width: 5em;
+	height: 0;
+	margin-top: 2em;
+	margin-bottom: 2px;
+	top: 0;
+	background-color: transparent;
+}
+.caret{
+	left:5em;
+	top: 2em;
+	right: 3em;
+}
+
+#star{
+	float: left;
+	margin: 4px ;
+}
+
+.pied-page{
+	border-top: 1px solid;
+	padding-top: 2em;
+	width: 1230px;
+	padding-bottom: 4em;
+
+}
+
+.pied-page a{
+	float: right;
+	margin-right: 2em;
+
+}
+
+
+
+
